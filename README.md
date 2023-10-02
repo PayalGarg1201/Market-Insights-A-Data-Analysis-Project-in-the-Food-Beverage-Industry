@@ -198,6 +198,59 @@ Suggestions for CodeX
 
 
 
+<img width="282" alt="image" src="https://github.com/PayalGarg1201/Market-Insights-A-Data-Analysis-Project-in-the-Food-Beverage-Industry/assets/133757186/5cbace6b-7ad4-4cb9-8215-5b854085d6d2">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img width="332" alt="image" src="https://github.com/PayalGarg1201/Market-Insights-A-Data-Analysis-Project-in-the-Food-Beverage-Industry/assets/133757186/1e71fbdd-acfe-4b2e-8d86-67fa93bfadaf">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
