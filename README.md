@@ -273,7 +273,7 @@ Primary and Secondary Insights :
 
 
 
-<img width="292" alt="image" src="https://github.com/PayalGarg1201/Market-Insights-A-Data-Analysis-Project-in-the-Food-Beverage-Industry/assets/133757186/4c168545-1a30-4a90-bb83-9fc411fae422">
+
 
 
 
