@@ -120,39 +120,100 @@ Primary and Secondary Insights :
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <img width="383" alt="image" src="https://github.com/PayalGarg1201/Market-Insights-A-Data-Analysis-Project-in-the-Food-Beverage-Industry/assets/133757186/50042202-ecfa-467f-b31c-c1351b06b150">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Suggestions for CodeX
+
+
+
+1. Improvements
+- Add fresh flavours
+- Simple and lovely packaging 
+- Less use of Sugar
+
+
+2. Ideal Price
+- Rs 50-99 to acquire market share
+- Should reflect the mindset of consumers 
+- Better-tasting premium beverages (above 150)
+- Pay attention to gross sales rather than net profit.
+
+
+
+3. Marketing Campaigns
+- Short-term savings  
+- Deals in bundles
+- Seasonal offers & Limited Edition Products  
+- Working together with social media content creators
+
+
+
+
+
+4. Target Audience
+- Youths visiting cafes
+- Sporting individuals 
+- Fitness instructors 
+- Nutritionists
+
+
+
+
+
+
+
+
+<img width="827" alt="image" src="https://github.com/PayalGarg1201/Market-Insights-A-Data-Analysis-Project-in-the-Food-Beverage-Industry/assets/133757186/15aa756d-3798-4496-9c21-cbc4cbe5c522">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
