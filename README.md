@@ -149,89 +149,6 @@ Primary and Secondary Insights :
 
 
 
-Suggestions for CodeX
-
-
-
-1. Improvements
-- Add fresh flavours
-- Simple and lovely packaging 
-- Less use of Sugar
-
-
-2. Ideal Price
-- Rs 50-99 to acquire market share
-- Should reflect the mindset of consumers 
-- Better-tasting premium beverages (above 150)
-- Pay attention to gross sales rather than net profit.
-
-
-
-3. Marketing Campaigns
-- Short-term savings  
-- Deals in bundles
-- Seasonal offers & Limited Edition Products  
-- Working together with social media content creators
-
-
-
-
-
-4. Target Audience
-- Youths visiting cafes
-- Sporting individuals 
-- Fitness instructors 
-- Nutritionists
-
-
-
-
-
-
-
-
-<img width="827" alt="image" src="https://github.com/PayalGarg1201/Market-Insights-A-Data-Analysis-Project-in-the-Food-Beverage-Industry/assets/133757186/15aa756d-3798-4496-9c21-cbc4cbe5c522">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -430,6 +347,320 @@ Suggestions for CodeX
 
 
 <img width="492" alt="image" src="https://github.com/PayalGarg1201/Market-Insights-A-Data-Analysis-Project-in-the-Food-Beverage-Industry/assets/133757186/da8033cd-0735-48fa-9d1a-1673b86b5041">
+
+
+
+
+<img width="384" alt="image" src="https://github.com/PayalGarg1201/Market-Insights-A-Data-Analysis-Project-in-the-Food-Beverage-Industry/assets/133757186/2cded5f3-5d4d-4994-9463-fee77c65224e">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img width="292" alt="image" src="https://github.com/PayalGarg1201/Market-Insights-A-Data-Analysis-Project-in-the-Food-Beverage-Industry/assets/133757186/4c168545-1a30-4a90-bb83-9fc411fae422">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img width="438" alt="image" src="https://github.com/PayalGarg1201/Market-Insights-A-Data-Analysis-Project-in-the-Food-Beverage-Industry/assets/133757186/1f0dcee3-6c7b-48cd-a8ff-2e749479ce75">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img width="492" alt="image" src="https://github.com/PayalGarg1201/Market-Insights-A-Data-Analysis-Project-in-the-Food-Beverage-Industry/assets/133757186/da8033cd-0735-48fa-9d1a-1673b86b5041">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Suggestions for CodeX
+
+
+
+1. Improvements
+- Add fresh flavours
+- Simple and lovely packaging 
+- Less use of Sugar
+
+
+2. Ideal Price
+- Rs 50-99 to acquire market share
+- Should reflect the mindset of consumers 
+- Better-tasting premium beverages (above 150)
+- Pay attention to gross sales rather than net profit.
+
+
+
+3. Marketing Campaigns
+- Short-term savings  
+- Deals in bundles
+- Seasonal offers & Limited Edition Products  
+- Working together with social media content creators
+
+
+
+
+
+4. Target Audience
+- Youths visiting cafes
+- Sporting individuals 
+- Fitness instructors 
+- Nutritionists
+
+
+
+
+
+
+
+
+<img width="827" alt="image" src="https://github.com/PayalGarg1201/Market-Insights-A-Data-Analysis-Project-in-the-Food-Beverage-Industry/assets/133757186/15aa756d-3798-4496-9c21-cbc4cbe5c522">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
