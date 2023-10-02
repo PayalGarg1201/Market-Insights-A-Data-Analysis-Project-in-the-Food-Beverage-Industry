@@ -18,6 +18,10 @@ Project Overview :
 
 
 CodeX
+
+
+
+
 CodeX is a German beverage company which is recently launched in India. They launched their energy drink in 10 cities in India.CodeX conducted a survey in those 10 cities and received results from 10k respondents.
 The survey was based on consumer behaviour questions like their purchasing habits, their feedback about energy drinks available in the market, pricing, packaging etc. The survey question file is attached at the end of this article.
 
@@ -97,6 +101,11 @@ Primary and Secondary Insights :
 
 
 <img width="373" alt="image" src="https://github.com/PayalGarg1201/Market-Insights-A-Data-Analysis-Project-in-the-Food-Beverage-Industry/assets/133757186/9a309487-6618-4f90-b38c-1937dffbaffd">
+
+
+
+
+
 
 
 
