@@ -90,6 +90,9 @@ Consumer Preferences: Identify preferred ingredients and packaging choices among
 
 
 
+
+
+
 <img width="383" alt="image" src="https://github.com/PayalGarg1201/Market-Insights-A-Data-Analysis-Project-in-the-Food-Beverage-Industry/assets/133757186/50042202-ecfa-467f-b31c-c1351b06b150">
 
 
@@ -107,6 +110,9 @@ Consumer Preferences: Identify preferred ingredients and packaging choices among
 
 
 <img width="384" alt="image" src="https://github.com/PayalGarg1201/Market-Insights-A-Data-Analysis-Project-in-the-Food-Beverage-Industry/assets/133757186/2cded5f3-5d4d-4994-9463-fee77c65224e">
+
+
+
 
 
 
@@ -167,7 +173,13 @@ Consumer Preferences: Identify preferred ingredients and packaging choices among
 
 
 
+
+
+
+
 <img width="438" alt="image" src="https://github.com/PayalGarg1201/Market-Insights-A-Data-Analysis-Project-in-the-Food-Beverage-Industry/assets/133757186/1f0dcee3-6c7b-48cd-a8ff-2e749479ce75">
+
+
 
 
 
